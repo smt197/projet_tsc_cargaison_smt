@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Conteneur principal pour les boutons */
+.btn-container {
+    position: relative;
+    display: inline-block;
+}
+
+/* Boutons supplémentaires, initialement cachés */
+.hidden-btns {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Afficher les boutons supplémentaires au survol du conteneur principal */
+.btn-container:hover .hidden-btns {
+    display: block;
+}
+
+/* Style des boutons supplémentaires */
+.hidden-btns button {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    text-align: left;
+    white-space: nowrap;
+}
+
+/* Ajustement des styles pour le conteneur principal et les boutons */
+.btn-container button {
+    margin-bottom: 4px;
+}

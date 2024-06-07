@@ -1,0 +1,478 @@
+{
+    "cargaisons": [
+        {
+            "idcargo": "6655f40a66d48",
+            "numero": "CRG878",
+            "lieu_depart": "\u00c9tats-Unis d'Am\u00e9rique",
+            "lieu_arrivee": "\u00c9tats-Unis d'Am\u00e9rique",
+            "distance_km": "708.70",
+            "poids_suporter": "poids",
+            "date_depart": "1975-01-07",
+            "date_arrivee": "2020-07-15",
+            "nom_cargaison": "Commodo fugiat est",
+            "valeur_max": "53",
+            "type": "CargaisonA\u00e9rienne",
+            "etat_avancement": "arrivee",
+            "etat_globale": "ouvert",
+            "produits": [
+                {
+                    "idproduit": "PRD447",
+                    "numero_produit": "Eius ut harum conseq",
+                    "nom_produit": "Eius ut harum conseq",
+                    "type_produit": "fragile",
+                    "etape_produit": "recuperer",
+                    "poids": "10",
+                    "emeteur": {
+                        "idclient": "CLT259",
+                        "nom_client": "Corporis corporis no",
+                        "prenom_client": "Voluptate dolore des",
+                        "telephone_client": 34,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST852",
+                        "nom_client": "Impedit atque aliqu",
+                        "prenom_client": "Rerum ea quia labore",
+                        "telephone_client": 97,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                },
+                {
+                    "idproduit": "PRD796",
+                    "numero_produit": "Voluptas incididunt",
+                    "nom_produit": "Voluptas incididunt",
+                    "type_produit": "fragile",
+                    "etape_produit": "recuperer",
+                    "poids": "3",
+                    "emeteur": {
+                        "idclient": "CLT950",
+                        "nom_client": "Rem natus fuga Sed",
+                        "prenom_client": "Laboris quisquam cul",
+                        "telephone_client": 95,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST365",
+                        "nom_client": "Assumenda sed conseq",
+                        "prenom_client": "Necessitatibus dolor",
+                        "telephone_client": 83,
+                        "email_client": "fatouniangbasse@gmail.com"
+                    }
+                },
+                {
+                    "idproduit": "PRD785",
+                    "numero_produit": "valour",
+                    "nom_produit": "valour",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "archive",
+                    "poids": "28",
+                    "emeteur": {
+                        "idclient": "CLT970",
+                        "nom_client": "Nging",
+                        "prenom_client": "Elimane",
+                        "telephone_client": 7765453788,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST209",
+                        "nom_client": "ndiaye",
+                        "prenom_client": "baba",
+                        "telephone_client": 88499494,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "6659cd0ca4d88",
+            "numero": "CRG394",
+            "lieu_depart": "Madagascar",
+            "lieu_arrivee": "Inde",
+            "distance_km": "6017.56",
+            "poids_suporter": "nombre",
+            "date_depart": "2024-07-01",
+            "date_arrivee": "2024-07-12",
+            "nom_cargaison": "cargaison",
+            "valeur_max": "67",
+            "type": "CargaisonA\u00e9rienne",
+            "etat_avancement": "perdu",
+            "etat_globale": "ferm\u00e9e",
+            "produits": [
+                {
+                    "idproduit": "PRD727",
+                    "numero_produit": "sucre",
+                    "nom_produit": "sucre",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "perdu",
+                    "poids": "4",
+                    "emeteur": {
+                        "idclient": "CLT564",
+                        "nom_client": "Nging",
+                        "prenom_client": "Elimane",
+                        "telephone_client": 787654,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST63",
+                        "nom_client": "ndiaye",
+                        "prenom_client": "baba",
+                        "telephone_client": 34567,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "665b3246b37ca",
+            "numero": "CRG978",
+            "lieu_depart": "Afrique du Sud",
+            "lieu_arrivee": "Royaume-Uni",
+            "distance_km": "9935.18",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-02",
+            "date_arrivee": "2024-07-23",
+            "nom_cargaison": "cargaisons",
+            "valeur_max": "200",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "perdu",
+            "etat_globale": "ferm\u00e9e",
+            "produits": [
+                {
+                    "idproduit": "PRD542",
+                    "numero_produit": "hsfdf",
+                    "nom_produit": "hsfdf",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "en_cours",
+                    "poids": "9",
+                    "emeteur": {
+                        "idclient": "CLT478",
+                        "nom_client": "Nging",
+                        "prenom_client": "Elimane",
+                        "telephone_client": 6378744,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST380",
+                        "nom_client": "ndiaye",
+                        "prenom_client": "baba",
+                        "telephone_client": 6474894,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "665b32e06c725",
+            "numero": "CRG276",
+            "lieu_depart": "Zambie",
+            "lieu_arrivee": "Russie",
+            "distance_km": "7631.85",
+            "poids_suporter": "nombre",
+            "date_depart": "2024-08-23",
+            "date_arrivee": "2024-09-12",
+            "nom_cargaison": "Eligendi tenetur qui",
+            "valeur_max": "6",
+            "type": "CargaisonA\u00e9rienne",
+            "etat_avancement": "en_route",
+            "etat_globale": "ferm\u00e9e",
+            "produits": []
+        },
+        {
+            "idcargo": "665b4995785cd",
+            "numero": "CRG709",
+            "lieu_depart": "Madagascar",
+            "lieu_arrivee": "Russie",
+            "distance_km": "10082.72",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-09",
+            "date_arrivee": "2024-07-24",
+            "nom_cargaison": "Ipsa libero ea nobi",
+            "valeur_max": "15",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "en_route",
+            "etat_globale": "ferm\u00e9e",
+            "produits": [
+                {
+                    "idproduit": "PRD960",
+                    "numero_produit": "Sunt in dolore rerum",
+                    "nom_produit": "Sunt in dolore rerum",
+                    "type_produit": "fragile",
+                    "etape_produit": "en_cours",
+                    "poids": "30",
+                    "emeteur": {
+                        "idclient": "CLT646",
+                        "nom_client": "Placeat quaerat con",
+                        "prenom_client": "Aliquam molestiae co",
+                        "telephone_client": 45,
+                        "email_client": "monu@mailinator.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST413",
+                        "nom_client": "Temporibus totam ear",
+                        "prenom_client": "Dignissimos ut lorem",
+                        "telephone_client": 60,
+                        "email_client": "kufi@mailinator.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "665b523075b95",
+            "numero": "CRG958",
+            "lieu_depart": "Zambie",
+            "lieu_arrivee": "Inde",
+            "distance_km": "6308.31",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-12",
+            "date_arrivee": "2024-07-15",
+            "nom_cargaison": "cargaison",
+            "valeur_max": "200",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "en_route",
+            "etat_globale": "ferm\u00e9e"
+        },
+        {
+            "idcargo": "665c73319b434",
+            "numero": "CRG664",
+            "lieu_depart": "Islande",
+            "lieu_arrivee": "Groenland",
+            "distance_km": "2074.51",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-24",
+            "date_arrivee": "2024-08-27",
+            "nom_cargaison": "Eos ipsam quisquam ",
+            "valeur_max": "57",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "arrivee",
+            "etat_globale": "ouvert",
+            "produits": [
+                {
+                    "idproduit": "PRD562",
+                    "nom_produit": "Aute explicabo Ipsu",
+                    "type_produit": "Alimentaire",
+                    "etape_produit": "perdu",
+                    "poids": 86,
+                    "emeteur": {
+                        "idclient": "CLT462",
+                        "nom_client": "Proident quo adipis",
+                        "prenom_client": "Rerum eos enim numq",
+                        "telephone_client": 64,
+                        "email_client": "wiwejof@mailinator.com"
+                    },
+                    "destinataire": {
+                        "idclient": "CLT533",
+                        "nom_client": "Eaque assumenda proi",
+                        "prenom_client": "Officia aut obcaecat",
+                        "telephone_client": 11,
+                        "email_client": "wusijiwus@mailinator.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "665d97ed0e928",
+            "numero": "CRG703",
+            "lieu_depart": "Su\u00e8de",
+            "lieu_arrivee": "\u00c9tats-Unis d'Am\u00e9rique",
+            "distance_km": "5478.41",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-05",
+            "date_arrivee": "2024-07-10",
+            "nom_cargaison": "In doloribus in et v",
+            "valeur_max": "77",
+            "type": "CargaisonA\u00e9rienne",
+            "etat_avancement": "en_route",
+            "etat_globale": "ferm\u00e9e"
+        },
+        {
+            "idcargo": "665dc22da3ac0",
+            "numero": "CRG687",
+            "lieu_depart": "Madagascar",
+            "lieu_arrivee": "Su\u00e8de",
+            "distance_km": "9710.88",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-12",
+            "date_arrivee": "2024-07-23",
+            "nom_cargaison": "Quidem anim laborum",
+            "valeur_max": "5",
+            "type": "CargaisonRouti\u00e8re",
+            "etat_avancement": "arrivee",
+            "etat_globale": "ouvert",
+            "produits": []
+        },
+        {
+            "idcargo": "665f3ab577e5b",
+            "numero": "CRG456",
+            "lieu_depart": "Arabie saoudite",
+            "lieu_arrivee": "Su\u00e8de",
+            "distance_km": "4698.49",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-12",
+            "date_arrivee": "2024-07-20",
+            "nom_cargaison": "cargaisonm",
+            "valeur_max": "23",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "en_route",
+            "etat_globale": "ferm\u00e9e"
+        },
+        {
+            "idcargo": "6661a9a21854c",
+            "numero": "CRG309",
+            "lieu_depart": "Turquie",
+            "lieu_arrivee": "Groenland",
+            "distance_km": "5156.93",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-08",
+            "date_arrivee": "2024-07-10",
+            "nom_cargaison": "cargaisona",
+            "valeur_max": "289",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "en attente",
+            "etat_globale": "ouvert",
+            "produits": [
+                {
+                    "idproduit": "PRD546",
+                    "numero_produit": "chocolatsucre",
+                    "nom_produit": "chocolatsucre",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "en_attente",
+                    "poids": "67",
+                    "emeteur": {
+                        "idclient": "CLT0",
+                        "nom_client": "yueriere",
+                        "prenom_client": "Elimane23456789",
+                        "telephone_client": 23456789,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST403",
+                        "nom_client": "baba",
+                        "prenom_client": "serigne",
+                        "telephone_client": 456789,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                },
+                {
+                    "idproduit": "PRD315",
+                    "numero_produit": "laicran",
+                    "nom_produit": "laicran",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "en_attente",
+                    "poids": "5",
+                    "emeteur": {
+                        "idclient": "CLT797",
+                        "nom_client": "yueriere",
+                        "prenom_client": "Khadim",
+                        "telephone_client": 345678,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST228",
+                        "nom_client": "ndiaye",
+                        "prenom_client": "serigne",
+                        "telephone_client": 23456789,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                },
+                {
+                    "idproduit": "PRD142",
+                    "numero_produit": "yaourt",
+                    "nom_produit": "yaourt",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "en_attente",
+                    "poids": "45",
+                    "emeteur": {
+                        "idclient": "CLT59",
+                        "nom_client": "fall",
+                        "prenom_client": "elhadji",
+                        "telephone_client": 4567899,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST107",
+                        "nom_client": "diop",
+                        "prenom_client": "serigne",
+                        "telephone_client": 34567890,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "6661abcc16bd9",
+            "numero": "CRG882",
+            "lieu_depart": "Russie",
+            "lieu_arrivee": "Canada",
+            "distance_km": "3145.25",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-08",
+            "date_arrivee": "2024-07-12",
+            "nom_cargaison": "cargaisonb",
+            "valeur_max": "367",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "en attente",
+            "etat_globale": "ouvert",
+            "produits": [
+                {
+                    "idproduit": "PRD971",
+                    "numero_produit": "valour",
+                    "nom_produit": "valour",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "en_attente",
+                    "poids": "4",
+                    "emeteur": {
+                        "idclient": "CLT588",
+                        "nom_client": "Nging",
+                        "prenom_client": "Elimane",
+                        "telephone_client": 5678,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST613",
+                        "nom_client": "sdfgh",
+                        "prenom_client": "sdfghjkl",
+                        "telephone_client": 34567,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                },
+                {
+                    "idproduit": "PRD902",
+                    "numero_produit": "flocon",
+                    "nom_produit": "flocon",
+                    "type_produit": "alimentaire",
+                    "etape_produit": "en_attente",
+                    "poids": "55",
+                    "emeteur": {
+                        "idclient": "CLT177",
+                        "nom_client": "dieng",
+                        "prenom_client": "Khadim",
+                        "telephone_client": 345678,
+                        "email_client": "serignembayet@gmail.com"
+                    },
+                    "destinataire": {
+                        "idclient": "DEST985",
+                        "nom_client": "gueye",
+                        "prenom_client": "serigne",
+                        "telephone_client": 3456789,
+                        "email_client": "serignembayet11@gmail.com"
+                    }
+                }
+            ]
+        },
+        {
+            "idcargo": "6662c0b7acd17",
+            "numero": "CRG623",
+            "lieu_depart": "Sri Lanka",
+            "lieu_arrivee": "Russie",
+            "distance_km": "5642.06",
+            "poids_suporter": "poids",
+            "date_depart": "2024-07-08",
+            "date_arrivee": "2024-07-10",
+            "nom_cargaison": "cargaisonc",
+            "valeur_max": "569",
+            "type": "CargaisonMaritime",
+            "etat_avancement": "en_route",
+            "etat_globale": "ferm\u00e9e"
+        }
+    ]
+}
